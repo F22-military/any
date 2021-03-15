@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+}
+#img1{
+    height: 200px;
+    width: 500px;
+}
+.menu{
+    font-family: 'Nerko One';
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    background-color: gray;
+}
+.links:hover{
+    background-color: olivedrab;
+    text-decoration: underline;
+}
+.links{
+    color: firebrick;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Black Ops One';
+    font-size: 20px;
+    display: inline;
+}
+#welcome{
+    margin-top: 50px;
+}
+#img2{
+    width: 172px;
+    height: 100px;
+}
+#img3{
+    width: 333px;
+    height: 200px;
+}
+#img4{
+    width: 375px;
+    height: 200px;
+}
+#img6{
+    height: 100px;
+    width: 172px;
+}
+#h1{
+    font-family: 'Black Ops One';
+}
+#h2{
+    font-family: 'Black Ops One';
+}
+#MyCarousel{
+    background-color: olivedrab;
+}
+#imgidkblah2{
+    height: 500px;
+    width: 658px;
+}
+#h209{
+    font-family: 'Black Ops One';
+}
+#haidk{
+    font-family: 'Black Ops one';
+}
+#hvidk{
+    font-family: 'Black Ops One';
+}
